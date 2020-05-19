@@ -16,7 +16,8 @@
 ------------
 
 **使用的环境：**
-'''python
+对于.ipynb文件(直接使用mlxtend库)，需要引用：  
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -25,8 +26,15 @@ from mlxtend.frequent_patterns import apriori
 from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import association_rules
 from mlxtend.plotting import stacked_barplot,scatterplotmatrix
-'''
+```
 
+对于.py文件(频繁项集挖掘---Apriori算法)，需要引用：  
+```python
+import pandas as pd
+import numpy as np
+import itertools
+import json
+```
 ------------
 
 **仓库文件介绍：**

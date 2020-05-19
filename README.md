@@ -39,10 +39,10 @@ import json
 
 **仓库文件介绍：**  
 - **分析过程报告**
-	- __homeworkw2.html__: 对应使用mlxtend库函数完成的频繁项集与关联规则挖掘的报告，更加简洁与方便。  
+	- __homeworkw2.html__: 对应使用mlxtend库函数完成的频繁项集与关联规则挖掘的报告，更加简洁与方便.  
 - **程序**：  
-	- __homeworkw2.ipynb__: 处理Wine Review对应数据集对应notebook代码(使用mlxtend库函数)；  
-	- __WineR_Apriori.py__: 频繁项集挖掘程序(未使用mlxtend库函数)；  
-	- __wine_review_w2.json__: WineR_Apriori.py中min_support = 0.0772的结果，对应与ipynb文件中mlxtend的执行结果(一致)；
+	- __homeworkw2.ipynb__: 处理Wine Review对应数据集对应notebook代码(使用mlxtend库函数).  
+	- __WineR_Apriori.py__: 频繁项集挖掘程序(未使用mlxtend库函数).  
+	- __wine_review_w2.json__: WineR_Apriori.py中min_support = 0.0772的结果，对应与ipynb文件中mlxtend的执行结果(一致).
 
 

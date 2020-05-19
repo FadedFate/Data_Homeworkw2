@@ -37,12 +37,11 @@ import json
 ```
 ------------
 
-**仓库文件介绍：**
-- **分析过程报告**：Wine Reviews.html，Consumer & Visitor Insights For Neighborhoods.html分别为两个数据集的分析过程报告
-- **程序**：
-	- Wine Reviews.ipynb，Wine Reviews.py为第一个数据集的程序；
-	- Consumer & Visitor Insights For Neighborhoods.ipynb，Consumer & Visitor Insights For Neighborhoods.py为第二个数据集的程序；
-	- .ipynb后缀的是使用 Jupyter Notebook 来编写Python程序时的文件；
-	- .py后缀的是源代码文件。
+**仓库文件介绍：**  
+- **分析过程报告**：homeworkw2.html 对应使用mlxtend库函数完成的频繁项集与关联规则挖掘的报告，更加简洁与方便。  
+- **程序**：  
+	- homeworkw2.ipynb: 处理Wine Review对应数据集对应notebook代码(使用mlxtend库函数)；  
+	- WineR_Apriori.py: 频繁项集挖掘程序(未使用mlxtend库函数)；  
+	- wine_review_w2.json: WineR_Apriori.py中min_support = 0.0772的结果，对应与ipynb文件中mlxtend的执行结果(一致)；
 
 

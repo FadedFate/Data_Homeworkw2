@@ -1,0 +1,237 @@
+[
+    [
+        {
+            "itemset": [
+                "A"
+            ],
+            "support": 0.5739658221299007
+        },
+        {
+            "itemset": [
+                "California"
+            ],
+            "support": 0.2788670182781334
+        },
+        {
+            "itemset": [
+                "Ch"
+            ],
+            "support": 0.2580406026301361
+        },
+        {
+            "itemset": [
+                "Chardonnay"
+            ],
+            "support": 0.09036363215159962
+        },
+        {
+            "itemset": [
+                "E"
+            ],
+            "support": 0.25282820716762294
+        },
+        {
+            "itemset": [
+                "Ex"
+            ],
+            "support": 0.1852523957713959
+        },
+        {
+            "itemset": [
+                "France"
+            ],
+            "support": 0.17048780299461772
+        },
+        {
+            "itemset": [
+                "Italy"
+            ],
+            "support": 0.15085058571880863
+        },
+        {
+            "itemset": [
+                "P"
+            ],
+            "support": 0.16640282936547773
+        },
+        {
+            "itemset": [
+                "Pinot Noir"
+            ],
+            "support": 0.10234055861435223
+        },
+        {
+            "itemset": [
+                "RCh"
+            ],
+            "support": 0.24380883250063706
+        },
+        {
+            "itemset": [
+                "REx"
+            ],
+            "support": 0.24546135491393756
+        },
+        {
+            "itemset": [
+                "US"
+            ],
+            "support": 0.41963258403539794
+        }
+    ],
+    [
+        {
+            "itemset": [
+                "A",
+                "California"
+            ],
+            "support": 0.14400883404505055
+        },
+        {
+            "itemset": [
+                "A",
+                "Ch"
+            ],
+            "support": 0.15720584714939884
+        },
+        {
+            "itemset": [
+                "A",
+                "Ex"
+            ],
+            "support": 0.07942146271399779
+        },
+        {
+            "itemset": [
+                "A",
+                "France"
+            ],
+            "support": 0.09407794654784979
+        },
+        {
+            "itemset": [
+                "A",
+                "Italy"
+            ],
+            "support": 0.10247183375933405
+        },
+        {
+            "itemset": [
+                "A",
+                "RCh"
+            ],
+            "support": 0.17200132819558453
+        },
+        {
+            "itemset": [
+                "A",
+                "REx"
+            ],
+            "support": 0.14811697387624614
+        },
+        {
+            "itemset": [
+                "A",
+                "US"
+            ],
+            "support": 0.22949984169761928
+        },
+        {
+            "itemset": [
+                "California",
+                "E"
+            ],
+            "support": 0.08397748245160194
+        },
+        {
+            "itemset": [
+                "California",
+                "REx"
+            ],
+            "support": 0.08932887512644885
+        },
+        {
+            "itemset": [
+                "California",
+                "US"
+            ],
+            "support": 0.2788670182781334
+        },
+        {
+            "itemset": [
+                "Ch",
+                "P"
+            ],
+            "support": 0.09281152750214287
+        },
+        {
+            "itemset": [
+                "E",
+                "Ex"
+            ],
+            "support": 0.09709727488243153
+        },
+        {
+            "itemset": [
+                "E",
+                "US"
+            ],
+            "support": 0.11788508019366944
+        },
+        {
+            "itemset": [
+                "Ex",
+                "US"
+            ],
+            "support": 0.09691966733333848
+        },
+        {
+            "itemset": [
+                "RCh",
+                "US"
+            ],
+            "support": 0.09866485455486143
+        },
+        {
+            "itemset": [
+                "REx",
+                "US"
+            ],
+            "support": 0.13454930153900801
+        }
+    ],
+    [
+        {
+            "itemset": [
+                "A",
+                "California",
+                "US"
+            ],
+            "support": 0.14400883404505055
+        },
+        {
+            "itemset": [
+                "A",
+                "REx",
+                "US"
+            ],
+            "support": 0.07975351161012827
+        },
+        {
+            "itemset": [
+                "California",
+                "E",
+                "US"
+            ],
+            "support": 0.08397748245160194
+        },
+        {
+            "itemset": [
+                "California",
+                "REx",
+                "US"
+            ],
+            "support": 0.08932887512644885
+        }
+    ]
+]
